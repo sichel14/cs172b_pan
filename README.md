@@ -1,1 +1,1 @@
-# cs172b_pan
+# BGL_for_pan-sharpening
